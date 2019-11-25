@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class Dashboard extends Page {
+public class Dashboard{
     WebDriver driver;
 
     public Dashboard(WebDriver driver) {
